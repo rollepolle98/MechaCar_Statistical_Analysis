@@ -31,4 +31,14 @@ Lot 1 | Lot 2 | Lot 3
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Analysis/L1_T_Test.png)|![](Analysis/L2_T_Test.png)|![](Analysis/L3_T_Test.png)
 
+* Taking a look at the three p-value's of the t-tests for lot 1,2 are statistically similar to the 1500 psi where as lot 3 is statistically different.
 
+
+Lot Summary
+![](Analysis/Lot_Summary.png)
+
+* Basd on the p value of the lot summary t-test, we can conclude that it does not differ much from the psi mean, so there is no evidence to reject null hypothesis.
+
+## Study Design: MechaCar vs Competition
+
+I think an interesting and useful study would be to see how well MechaCar performs on highways vs city miles. First i would have to run a test which calculates how many miles it gets on streets versus the freeway. Then next it would be logical to create a hypothesis in wich compares the results from each test. Based on the test the null hypothesis would be based on if the city / freeway miles are higher or lower than the average of the two. This way we could truly test where the bet mileage is achieved.
