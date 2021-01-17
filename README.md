@@ -20,7 +20,7 @@
 Total Summary            |  Lot Summary
 :-------------------------:|:-------------------------:
 ![](Analysis/Total_Summary.png)  |  ![](Analysis/Lot_Summary.png)
-:-------------------------:|:-------------------------:
+
 
 
 * Based on the Total Summary the variance is 62.3 so it is within range but taking a look at each lot individually we can see that Lot 1 and 2 meet the design specifications with variances of .9 and 7.4 while Lot 3 far exceeds specifications.  
@@ -29,6 +29,6 @@ Total Summary            |  Lot Summary
 
 Lot 1 | Lot 2 | Lot 3
 :-------------------------:|:-------------------------:|:-------------------------:
-![](Resources/Ttest_lot1.png)|![](Resources/Ttest_lot2.png)|
+![](Analysis/L1_T_Test.png)|![](Analysis/L2_T_Test.png)|![](Analysis/L3_T_Test.png)
 
 
