@@ -34,7 +34,8 @@ Lot 1 | Lot 2 | Lot 3
 * Taking a look at the three p-value's of the t-tests for lot 1,2 are statistically similar to the 1500 psi where as lot 3 is statistically different.
 
 
-Lot Summary
+#### Lot Summary
+
 ![](Analysis/Lot_Summary.png)
 
 * Basd on the p value of the lot summary t-test, we can conclude that it does not differ much from the psi mean, so there is no evidence to reject null hypothesis.
